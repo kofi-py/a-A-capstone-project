@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Proxima Nova";
+    src: 
+        local("Proxima Nova"),
+        url("fonts/Proxima\ Nova\ Regular.otf") format("opentype"),
+        url("fonts/Proxima\ Nova\ Semibold.otf") format("opentype"),
+        url("fonts/Proxima\ Nova\ Bold.otf") format("opentype")
+}
